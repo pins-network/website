@@ -22,7 +22,7 @@
   font-family: 'SFProText-Semibold';
   src: url('../fonts/SF/SF-Pro-Text-Semibold.eot?#iefix') format('embedded-opentype'),
   url('../fonts/SF/SF-Pro-Text-Semibold.woff2') format('woff'),
-  url('../fonts/SF/SF-Pro-Text-Semibold.ttf')  format('truetype'),
+  url('../fonts/SF/sf-pro-text_semibold.woff2')  format('truetype'),
   url('../fonts/SF/sf-pro-text-bold.svg#svgFontName') format('svg');
 }
 @font-face {
@@ -37,7 +37,7 @@
 @font-face {
   font-family: 'SFProText-Medium';
   src: url('../fonts/SF/sf-pro-text-medium.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/SF/sf-pro-text-medium.woff') format('woff'),
+  url('../fonts/SF/sf-pro-text_medium.woff2') format('woff'),
   url('../fonts/SF/sf-pro-text-medium.ttf')  format('truetype'),
   url('../fonts/SF/sf-pro-text-medium.svg#svgFontName') format('svg');
 }
